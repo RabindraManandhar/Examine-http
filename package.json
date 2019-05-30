@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "name": "examine-htp",
+  "description": "Web applications are based on the client and server communicating with each other using the HTTP protocol.",
+  "version": "1.0.0",
+  "main": "npm install",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
